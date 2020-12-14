@@ -1,4 +1,4 @@
-# Informe
+# LEYES DE KIRCHHOFF
 
 
 1. OBJETIVOS
