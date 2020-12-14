@@ -60,13 +60,13 @@ Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicaci�
 
 4. LISTA DE COMPONENTES
 
-1 Fuente de Voltaje de C.D.
-2 Multimetros Digitales.
-1 Resistor de 1kΩ
-2 Resistores de 2.2kΩ
-1 Resistor de 1.8kΩ
-1 Resistor de 3.9kΩ
-1 Protoboard
+*1 Fuente de Voltaje de C.D.
+*2 Multimetros Digitales.
+*1 Resistor de 1kΩ
+*2 Resistores de 2.2kΩ
+*1 Resistor de 1.8kΩ
+*1 Resistor de 3.9kΩ
+*1 Protoboard
 
 5. EXPLICACIÓN
 
