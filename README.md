@@ -23,15 +23,23 @@ Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO 
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+Leyes de Kirchhoff
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+Para tratar circuitos complicados, se usan las reglas de Kirchhoff, establecidas por G. R. Kirchhoff (1824-1887) a mediados del siglo XIX. Son dos reglas y simplemente son aplicaciones convenientes de las leyes de conservación de la carga y la energía.
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+La primera regla de Kirchhoff, o regla de los nodos, se basa en la conservación de la carga eléctrica que ya se usó al deducir la regla para resistores en paralelo. Esa regla afirma que en cualquier punto de unión, la suma de todas las corrientes que entran al nodo debe ser igual a la suma de todas las corrientes que salen del nodo.
+
+∑Iadentro=∑Iafuera
+
+La segunda regla de Kirchhoff o Ley de voltaje de Kirchhoff nos dice que la suma de los voltajes alrededor de una malla es igual a cero.
+
+∑Vsubida=∑Vbajada
+
+La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
+
+* Puedes trazar una malla que comience en cualquier nodo. Si caminas alrededor de la malla y terminas en el nodo inicial, la suma de los voltajes de la malla es igual a cero.
+* Puedes recorrer la malla en cualquier dirección y la ley de voltaje de Kirchhoff conserva su validez.
+* Si un circuito tiene múltiples mallas, la ley de voltaje de Kirchhoff es válida para cada una.
 
 3. DIAGRAMAS
 
@@ -52,7 +60,13 @@ Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicaci�
 
 4. LISTA DE COMPONENTES
 
-En este punto se indicará en una tabla todos los recursos que se han empleado para su desarrollo.
+1 Fuente de Voltaje de C.D.
+2 Multimetros Digitales.
+1 Resistor de 1kΩ
+2 Resistores de 2.2kΩ
+1 Resistor de 1.8kΩ
+1 Resistor de 3.9kΩ
+1 Protoboard
 
 5. EXPLICACIÓN
 
@@ -80,7 +94,7 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 10. BIBLIOGRAFÍA
 
-Emplear normas APA para el informe e IEEE para el artículo
+Douglas C. Giancoli. Física  para  ciencias  e  ingenierıa. Pearson, 2008.
 
 11. ANEXOS
 
