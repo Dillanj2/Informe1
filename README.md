@@ -78,50 +78,87 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
 PROCEDIMIENTO 
 
 <p align="center">
-  Maya 1 
+  Maya 1
+</p>
+<p align="center">
   10+1KI_1-3.9K(I_1-I_2)-1.8KI_2=0
+</p>
+<p align="center">
   10-6.7KI_1+3.9KI_2=0
+</p>
+<p align="center">
   6.7I_1-3.9I_2=10       (1)
 </p>
 <p align="center">
-  Maya 2 
+  Maya 2
+</p>
+<p align="center">
   -2.2KI_2-2.2KI_2-3.9K(I_2-I_1)=0
+</p>
+<p align="center">
   -8.3KI_2+3.9KI_2=0    (2)
 </p>
+
 Sistema de Ecuaciones con (1) y (2)
+
 <p align="center">  
-{(6.7I_1-3.9I_2=10@3.9I_1-8.3I_2=0)
-
+  {(6.7I_1-3.9I_2=10@3.9I_1-8.3I_2=0)
+</p>
 Resolviendo :
-I_1=2.053 mA       Esta es la corriente que circula en la primera maya
-I_2=0.965 mA       Esta es la corriente que circula en la segunda maya
-Para encontrar los voltajes ocupamos la ley de Ohm
-V=I*R
+<p align="center">
+  I_1=2.053 mA       Esta es la corriente que circula en la primera maya
+</p>
+<p align="center">
+  I_2=0.965 mA       Esta es la corriente que circula en la segunda maya
+</p>
 
-VR_1=2.053mA*1K
-VR_1=2.053 V
+Para encontrar los voltajes ocupamos la ley de Ohm
+
+<p align="center">
+  V=I*R
+</p>
+<p align="center">
+  VR_1=2.053mA*1K
+</p>
+<p align="center">
+  VR_1=2.053 V
 </p>
 
 Para encontrar el voltaje en la resistencia 2 debemos hacer una diferencia entre la 
 corriente 1 y la corriente 2
 
 <p align="center">
-IR_2=I_1-I_2 
-
-IR_2=2.053 mA-0.965 mA
-IR_2=1.088 mA
- 
-VR_2=1.088 mA*3.9K
-VR_2=4.24V
-
-VR_3=0.965 mA*2.2K
-VR_3=2.12V
-
-VR_4=0.965 mA*2.2K
-VR_4=2.12V
-
-VR_5=2.053mA*1.8K
-VR_5=3.69 V
+  IR_2=I_1-I_2 
+</p>
+<p align="center">
+  IR_2=2.053 mA-0.965 mA
+</p>
+<p align="center">
+  IR_2=1.088 mA
+</p>
+<p align="center">
+  VR_2=1.088 mA*3.9K
+</p>
+<p align="center">
+  VR_2=4.24V
+</p>
+<p align="center">
+  VR_3=0.965 mA*2.2K
+</p>
+<p align="center">
+  VR_3=2.12V
+</p>
+<p align="center">
+  VR_4=0.965 mA*2.2K
+</p>
+<p align="center">
+  VR_4=2.12V
+</p>
+<p align="center">
+  VR_5=2.053mA*1.8K
+</p>
+<p align="center">
+  VR_5=3.69 V
 </p>
 
 Para poder calcular el error debemos aplicar la siguiente formula 
