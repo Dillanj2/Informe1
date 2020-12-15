@@ -44,8 +44,9 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
 
 <p align="center">
   <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20Resistivo%20Mixto.png">
-  
-Circuito Resistivo Mixto
+</p>
+<p align="center">
+  Circuito Resistivo Mixto
 </p>
 
 4. LISTA DE COMPONENTES
