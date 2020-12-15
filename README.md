@@ -185,3 +185,24 @@ Douglas C. Giancoli. Física  para  ciencias  e  ingenierıa. Pearson, 2008.
 
 9. ANEXOS
 
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20en%20LTspice.jpeg">
+</p>
+<p align="center">
+  Figura 9.1: Circuito en LTspice
+</p
+
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20en%20Tinkercad1.jpeg">
+</p>
+<p align="center">
+  Figura 9.2: Circuito en Tinkercad1
+</p
+
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20en%20Tinkercad2.jpeg">
+</p>
+<p align="center">
+  Figura 9.3: Circuito en Tinkercad2
+</p
+
