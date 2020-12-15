@@ -43,20 +43,7 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
 
 3. DIAGRAMAS
 
-Los diagramas hacen referencia a una representación visual de lo que se ha desarrollado enfocado al software y al hardware. Los diagramas son:
-* Diagramas de bloques.
-* Diagramas UML. (casos de uso-clase)
-* Diagramas eléctricos.
-* Diagramas esquemáticos.
-
-Adicionalmente para el caso de diagramas eléctricos se debe hacer la explicación de los circuitos.
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama1.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama2.jpg)
-
-![](https://github.com/doalulema/Informe/blob/master/img/Diagrama4.jpg)
-
+![Circuito Resistivo Mixto](https://github.com/Dillanj2/Informe1/blob/main/Imagenes/Circuito%20Resistivo%20Mixto.png)
 
 4. LISTA DE COMPONENTES
 
