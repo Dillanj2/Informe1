@@ -30,7 +30,7 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
   <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20Resistivo%20Mixto.png">
 </p>
 <p align="center">
-  Circuito Resistivo Mixto
+  Diagrama 1: Circuito Resistivo Mixto
 </p>
 
 4. LISTA DE COMPONENTES
@@ -45,7 +45,7 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
 
 5. PROCEDIMIENTO
 
-En este punto se debe explicar cómo funcionan la implementación del circuito o programa.
+5.1 Arme el circuito que se muestra en el Diagrama 1.
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
