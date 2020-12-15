@@ -30,7 +30,7 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
   <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Circuito%20Resistivo%20Mixto.png">
 </p>
 <p align="center">
-  Diagrama 1: Circuito Resistivo Mixto
+  Diagrama 3.1: Circuito Resistivo Mixto
 </p>
 
 4. LISTA DE COMPONENTES
@@ -45,7 +45,90 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
 
 5. PROCEDIMIENTO
 
-5.1 Arme el circuito que se muestra en el Diagrama 1.
+5.1 Arme el circuito que se muestra en el Diagrama 3.1.
+5.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 5.1.
+
+<p align="center">
+  Tabla 5.1: Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+</p>
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Resultados%20obtenidos%20de%20voltaje%20y%20corriente%2C%20en%20cada%20elemento%20del%20circuito..jpeg">
+</p>
+
+5.3 Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 5.2.
+
+<p align="center">
+  Tabla 5.2: Verificación de la LVK.
+</p>
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Resultados%20obtenidos%20de%20voltaje%20y%20chttps://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Verificaci%C3%B3n%20de%20la%20LVK..jpeg">
+</p>
+
+5.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 5.3.
+
+<p align="center">
+  Tabla 5.3: Verificación de la LCK.
+</p>
+<p align="center">
+  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Verificaci%C3%B3n%20de%20la%20LCK..jpeg">
+</p>
+
+5.5 Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
+PROCEDIMIENTO 
+
+<p align="center">
+  Maya 1 
+  10+1KI_1-3.9K(I_1-I_2)-1.8KI_2=0
+  10-6.7KI_1+3.9KI_2=0
+  6.7I_1-3.9I_2=10       (1)
+</p>
+<p align="center">
+  Maya 2 
+  -2.2KI_2-2.2KI_2-3.9K(I_2-I_1)=0
+  -8.3KI_2+3.9KI_2=0    (2)
+</p>
+Sistema de Ecuaciones con (1) y (2)
+<p align="center">  
+{(6.7I_1-3.9I_2=10@3.9I_1-8.3I_2=0)
+
+Resolviendo :
+I_1=2.053 mA       Esta es la corriente que circula en la primera maya
+I_2=0.965 mA       Esta es la corriente que circula en la segunda maya
+Para encontrar los voltajes ocupamos la ley de Ohm
+V=I*R
+
+VR_1=2.053mA*1K
+VR_1=2.053 V
+</p>
+
+Para encontrar el voltaje en la resistencia 2 debemos hacer una diferencia entre la 
+corriente 1 y la corriente 2
+
+<p align="center">
+IR_2=I_1-I_2 
+
+IR_2=2.053 mA-0.965 mA
+IR_2=1.088 mA
+ 
+VR_2=1.088 mA*3.9K
+VR_2=4.24V
+
+VR_3=0.965 mA*2.2K
+VR_3=2.12V
+
+VR_4=0.965 mA*2.2K
+VR_4=2.12V
+
+VR_5=2.053mA*1.8K
+VR_5=3.69 V
+</p>
+
+Para poder calcular el error debemos aplicar la siguiente formula 
+
+<p align="center">
+error%=(Valor teorico-Valor medido)/(Valor teorico) x 100%
+</p>
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
