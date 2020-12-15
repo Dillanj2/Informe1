@@ -1,6 +1,5 @@
 # LEYES DE KIRCHHOFF
 
-
 1. OBJETIVOS
 
 Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
@@ -43,7 +42,9 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
 
 3. DIAGRAMAS
 
-![Circuito Resistivo Mixto](https://github.com/Dillanj2/Informe1/blob/main/Imagenes/Circuito%20Resistivo%20Mixto.png)
+![](https://github.com/Dillanj2/Informe1/blob/main/Imagenes/Circuito%20Resistivo%20Mixto.png)
+
+Circuito Resistivo Mixto
 
 4. LISTA DE COMPONENTES
 
