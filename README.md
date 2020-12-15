@@ -61,7 +61,7 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
   Tabla 5.2: Verificación de la LVK.
 </p>
 <p align="center">
-  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Resultados%20obtenidos%20de%20voltaje%20y%20chttps://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Verificaci%C3%B3n%20de%20la%20LVK..jpeg">
+  <img src="https://github.com/Dillanj2/Informe1/blob/main/Im%C3%A1genes/Verificaci%C3%B3n%20de%20la%20LVK..jpeg">
 </p>
 
 5.4 Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 5.3.
