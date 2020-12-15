@@ -102,7 +102,10 @@ PROCEDIMIENTO
 Sistema de Ecuaciones con (1) y (2)
 
 <p align="center">  
-  {(6.7I_1-3.9I_2=10@3.9I_1-8.3I_2=0)
+  {6.7I_1-3.9I_2=10
+ </p>
+<p align="center">
+  {3.9I_1-8.3I_2=0
 </p>
 Resolviendo :
 <p align="center">
@@ -164,7 +167,7 @@ corriente 1 y la corriente 2
 Para poder calcular el error debemos aplicar la siguiente formula 
 
 <p align="center">
-error%=(Valor teorico-Valor medido)/(Valor teorico) x 100%
+error%=((Valor teorico-Valor medido)/(Valor teorico))*100%
 </p>
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
