@@ -173,7 +173,8 @@ error%=((Valor teorico-Valor medido)/(Valor teorico))*100%
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
-En este punto se debe especificar las aplicaciones secundarias necesarias, la configuración del terminal, así como cualquier otra información necesaria para que pueda funcionar el proyecto, tanto en hardware como en software.
+* Tinkercad: Es una herramienta online de Autodesk, que permite la simulacion de circuitos, al igual que permite dibujar esquemas circuitales de forma sencilla.
+* LTspice: Es un simulador de alto rendimiento en el que pueden armarse diagramas esquemáticos de reguladores de alimentación conmutados o Convertidores DC-DC. Permite la simulacion de circuitos.
 
 7. CONCLUSIONES
 
