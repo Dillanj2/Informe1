@@ -46,6 +46,7 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
 5. PROCEDIMIENTO
 
 5.1 Arme el circuito que se muestra en el Diagrama 3.1.
+
 5.2 Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 5.1.
 
 <p align="center">
