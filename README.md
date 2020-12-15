@@ -65,7 +65,7 @@ En este punto se debe explicar cómo funcionan la implementación del circuito o
 Constituye un documento en el cual se ilustra con imágenes y un lenguaje claro cómo utilizar la aplicación, evitando mencionar código. Además debe presentar como armar, instalar o conectar la aplicación, evitando los esquemas circuitales.
 
 
-7.- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
+7. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
 En este punto se debe especificar las aplicaciones secundarias necesarias, la configuración del terminal, así como cualquier otra información necesaria para que pueda funcionar el proyecto, tanto en hardware como en software.
 
