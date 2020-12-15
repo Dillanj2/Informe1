@@ -2,6 +2,13 @@
 
 1. OBJETIVOS
 
+Generales
+
+* Analizar el circuito resistivo mixto y justificar el uso de las leyes de Kirchhoff para los diferentes calculos. 
+
+Especificos
+
+* Demostrar la Ley de Kirchhoff  y revisar los valores medidos con los valores teóricos mediante el uso de simuladores. 
 
 
 2. MARCO TEÓRICO 
@@ -178,7 +185,8 @@ error%=((Valor teorico-Valor medido)/(Valor teorico))*100%
 
 7. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* La leyes de Kirchhoff nos ayudan en el analisis de circuitos eéctricos, como el empleado en la practica, lo cual hace que sea un método muy utilizado en el análisis de valor de voltaje o corriente.
+* Los valores medidos no se alteran mucho a los valores teóricos, por lo cual nuestro valor de error en la practica no es tan alto.
 
 8. BIBLIOGRAFÍA
 
