@@ -85,7 +85,7 @@ La ley de voltaje de Kirchhoff tiene algunas propiedades simpáticas:
 
 El procedimiento lo puede observar entrando al siguiente enlace:
 
-<p><a href="https://github.com/Dillanj2/Informe1/blob/main/C%C3%B3digo%20Fuente/Procedimiento_de_Laboratorio.pdf" target="_blank">Este enlace</a>
+<p><a href="https://github.com/Dillanj2/Informe1/blob/main/C%C3%B3digo%20Fuente/Procedimiento_de_Laboratorio.pdf" target="_blank">Procedimiento</a>
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
@@ -94,12 +94,12 @@ El procedimiento lo puede observar entrando al siguiente enlace:
 
 7. CONCLUSIONES
 
-* La leyes de Kirchhoff nos ayudan en el analisis de circuitos eéctricos, como el empleado en la practica, lo cual hace que sea un método muy utilizado en el análisis de valor de voltaje o corriente.
+* La leyes de Kirchhoff nos ayudan en el analisis de circuitos eléctricos, como el empleado en la practica, lo cual hace que sea un método muy utilizado en el análisis de valor de voltaje o corriente.
 * Los valores medidos no se alteran mucho a los valores teóricos, por lo cual nuestro valor de error en la practica no es tan alto.
 
 8. BIBLIOGRAFÍA
 
-Douglas C. Giancoli. Física  para  ciencias  e  ingenierıa. Pearson, 2008.
+Giancoli. D. C., (2008). Física  para  ciencias  e  ingenierıa, Pearson. 
 
 9. ANEXOS
 
