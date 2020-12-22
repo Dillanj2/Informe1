@@ -9,7 +9,8 @@ Generales
 Especificos
 
 * Demostrar la Ley de Kirchhoff  y revisar los valores medidos con los valores teóricos mediante el uso de simuladores. 
-
+* 
+* 
 
 2. MARCO TEÓRICO 
 
