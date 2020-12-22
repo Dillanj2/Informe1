@@ -9,8 +9,8 @@ Generales
 Especificos
 
 * Demostrar la Ley de Kirchhoff  y revisar los valores medidos con los valores teóricos mediante el uso de simuladores. 
-* 
-* 
+* Explicar los datos obtenidos en las tablas, mediante las formulas establecidas.
+* Practicar el uso de la Ley de Ohm, al igual que las formulas de la Ley de Kirchhof.
 
 2. MARCO TEÓRICO 
 
